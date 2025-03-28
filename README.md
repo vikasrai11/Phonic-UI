@@ -13,7 +13,7 @@ cd Phonic-UI
 ### 🎨 2️⃣ Setup the Frontend
 
 ```bash
-cd frontend
+cd main
 npm install
 npm run dev
 ```
